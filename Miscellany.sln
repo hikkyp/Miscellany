@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastNotification", "ToastN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileNotification", "TileNotification\TileNotification.csproj", "{23C994DB-0152-44A8-AF7A-5A242E0B0EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,16 +67,6 @@ Global
 		{23C994DB-0152-44A8-AF7A-5A242E0B0EC8}.Release|x86.ActiveCfg = Release|x86
 		{23C994DB-0152-44A8-AF7A-5A242E0B0EC8}.Release|x86.Build.0 = Release|x86
 		{23C994DB-0152-44A8-AF7A-5A242E0B0EC8}.Release|x86.Deploy.0 = Release|x86
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Debug|ARM.ActiveCfg = Debug|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Release|ARM.ActiveCfg = Release|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Release|x64.ActiveCfg = Release|Any CPU
-		{EE3E30A2-4069-4B15-BCF0-CB289F267C3F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
