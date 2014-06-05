@@ -20,7 +20,6 @@ namespace CommandPattern.Models
 				new StockModel { Symbol = "BAC", Price = 15.43m, },
 				new StockModel { Symbol = "FB", Price = 63.19m, },
 				new StockModel { Symbol = "TWTR", Price = 33.89m, },
-				new StockModel { Symbol = "S", Price = 9.02m, },
 			};
 		}
 		private static void _UpdateStocks ()
